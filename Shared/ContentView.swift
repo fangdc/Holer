@@ -11,6 +11,9 @@ struct ContentView: View {
     var body: some View {
         Text("Hello, world!")
             .padding()
+        Button(action: /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Action@*/{}/*@END_MENU_TOKEN@*/) {
+                /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Content@*/Text("Button")/*@END_MENU_TOKEN@*/
+            }
     }
 }
 
@@ -19,3 +22,6 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+
+//这里随便输入了一些文字
