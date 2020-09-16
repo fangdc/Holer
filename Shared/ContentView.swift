@@ -25,3 +25,6 @@ struct ContentView_Previews: PreviewProvider {
 
 
 //这里随便输入了一些文字
+
+
+//Complicted Function
